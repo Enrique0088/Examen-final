@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "maricarmen",
+    "producto": "Remera",
+    "precio": 40000,
+    "cantidad": 2,
+    "total": 80000
+  },
+  {
+    "nombre": "renato ",
+    "producto": "Remera",
+    "precio": 51000,
+    "cantidad": 5,
+    "total": 255000
+  },
+  {
+    "nombre": "humberto",
+    "producto": "Remera",
+    "precio": 51000,
+    "cantidad": 8,
+    "total": 408000
+  }
+]
